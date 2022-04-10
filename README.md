@@ -10,15 +10,21 @@ THE PROCESS
 Tools used:
 
 Microsoft Excel
+
 Microsoft PowerBI Desktop
+
 Power Query Editor
 
 Techniques:
 
 Data Loading (ETL)
+
 Data Modelling
+
 Data Analysis
+
 Data Visualization
+
 Creating Time-intelligence measures using DAX Formulas.
 
 DELIVERABLE
